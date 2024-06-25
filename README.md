@@ -1,1 +1,1 @@
-Primera practica del modulo o seccion llamado "Github" del curso Git: ¡de Noob a Pro!
+Primera práctica del modulo o seccion llamado "Github" del curso Git: ¡de Noob a Pro!
